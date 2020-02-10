@@ -25,12 +25,15 @@ Mainly based on the books "The Art of Invisibility" by Kevin Mitnick and the the
  * e.g. KeePass XC
 * [ ] use different randomly generated passwords for different accounts/services/...
 * [ ] use a local or encrypted calendar
-* [ ] use end-to-end(E2E)-encrypted messengers
+* [ ] use by default end-to-end(E2E)-encrypted messenging services
+ * e.g. Signal, Threema, Wire
 * [ ] use email encryption
+ * e.g. OpenPGP, GPG, PGP (proprietary)
 * [ ] test a new software/service yourself before relying on it
 * [ ] block unnecessary Internet connections (PC, Laptop, smartphone)
+ * e.g. Little Snitch (MAC), Lockdown (iOS)
 * [ ] use Two-Factor-Authentication (2FA) with text=SMS (okay), software token (good), or hardware token (best)
- * e.g. Authy (software token)
+ * e.g. Authy (software token), YubiKey (hardware token)
 * [ ] use a new email address for every social network
 * [ ] use Tor to connect to the Internet
 
