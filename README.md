@@ -44,6 +44,7 @@ Mainly based on the books "The Art of Invisibility" by Kevin Mitnick and the the
  * e.g. VeraCrypt
 * [ ] share shopping cards for discounts to anonymize your personal buying behavior
 * [ ] use multiple browsers
+ * e.g. Brave, Firefox, Chrome, Opera, ...
 * [ ] use browser settings that most users use (to counter browser fingerprinting)
  * e.g. AddOn???
 
