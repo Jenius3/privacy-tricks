@@ -36,7 +36,22 @@ Mainly based on the books "The Art of Invisibility" by Kevin Mitnick and the the
  * e.g. Authy (software token), YubiKey (hardware token)
 * [ ] use a new email address for every social network
 * [ ] use Tor to connect to the Internet
+* [ ] use private mode in Browser
+ * e.g. Firefox: Private Browsing, Chrome: Incognito Mode, Internet Explorer: InPrivate Browsing
+* use privacy-preserving search engine
+ * e.g. DuckDuckGo
+* use system/file encryption
+ * e.g. VeraCrypt
+* share shopping cards for discounts to anonymize your personal buying behavior
+* use multiple browsers
+* use browser settings that most users use (to counter browser fingerprinting)
+ * e.g. AddOn???
 
 ## Privacy Pitch (arguments against people who 'have nothing to hide')
 * Do you want to be the weakest point in the system that gets hacked?
 * Edward Snowden: “Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.”
+
+## Privacy Ressources
+* https://securitycheckli.st/
+* https://www.privacytools.io/
+* https://www.ted.com/talks/glenn_greenwald_why_privacy_matters
