@@ -14,6 +14,8 @@ Mainly based on the books "The Art of Invisibility" by Kevin Mitnick and the the
  * e.g. ProtonVPN
   * [ ] #paranoid: use different VPN service providers (if one has a breach)
 * [ ] install updates frequently
+* [ ] use system/file encryption
+ * e.g. VeraCrypt, GPG, BitLocker (Windows), FileVault (MacOSX)
 * [ ] disable camera (front/back, smartTV, smartphone)
 * [ ] disable microphone (smartTV, smartphone)
 * [ ] use several email addresses
@@ -40,8 +42,6 @@ Mainly based on the books "The Art of Invisibility" by Kevin Mitnick and the the
  * e.g. Firefox: Private Browsing, Chrome: Incognito Mode, Internet Explorer: InPrivate Browsing
 * [ ] use privacy-preserving search engine
  * e.g. DuckDuckGo
-* [ ] use system/file encryption
- * e.g. VeraCrypt
 * [ ] share shopping cards for discounts to anonymize your personal buying behavior
 * [ ] use multiple browsers
  * e.g. Brave, Firefox, Chrome, Opera, ...
