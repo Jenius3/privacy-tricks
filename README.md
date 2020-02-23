@@ -47,8 +47,8 @@ Mainly based on the books "The Art of Invisibility" by Kevin Mitnick and the the
  * e.g. Brave, Firefox, Chrome, Opera, ...
 * [ ] use browser settings that most users use (to counter browser fingerprinting)
  * e.g. AddOn???
-* never use your personal email address for social networks
-* quit Twitter: 1. delete all tweets, 2. wait 30 days, 3. delete account
+* [ ] don't use your personal email address for social networks
+* [ ] quit Twitter: 1. delete all tweets, 2. wait 30 days, 3. delete account
 
 ## Privacy Pitch (arguments against people who 'have nothing to hide')
 * Do you want to be the weakest point in the system that gets hacked?
