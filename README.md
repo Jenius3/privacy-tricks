@@ -38,13 +38,13 @@ Mainly based on the books "The Art of Invisibility" by Kevin Mitnick and the the
 * [ ] use Tor to connect to the Internet
 * [ ] use private mode in Browser
  * e.g. Firefox: Private Browsing, Chrome: Incognito Mode, Internet Explorer: InPrivate Browsing
-* use privacy-preserving search engine
+* [ ] use privacy-preserving search engine
  * e.g. DuckDuckGo
-* use system/file encryption
+* [ ] use system/file encryption
  * e.g. VeraCrypt
-* share shopping cards for discounts to anonymize your personal buying behavior
-* use multiple browsers
-* use browser settings that most users use (to counter browser fingerprinting)
+* [ ] share shopping cards for discounts to anonymize your personal buying behavior
+* [ ] use multiple browsers
+* [ ] use browser settings that most users use (to counter browser fingerprinting)
  * e.g. AddOn???
 
 ## Privacy Pitch (arguments against people who 'have nothing to hide')
